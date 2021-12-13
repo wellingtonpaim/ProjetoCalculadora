@@ -1,6 +1,6 @@
 package com.calculadora;
 /**
- * @author paimw
+ * @author wellingtonpaim
  */
 public class Calculadora extends javax.swing.JFrame {
     public Calculadora() {
